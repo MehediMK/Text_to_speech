@@ -1,6 +1,6 @@
 # Text_to_Speech conveter using python gtts or (gTTS)
 ## Note:
-	.First you need to install python also you can see requirement.txt file
+	1. First you need to install python also you can see requirement.txt file
 
 Here I already make virtual environment for this code.
 If you want to run this code you neet to activate virtualenv.
